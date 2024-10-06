@@ -4,6 +4,8 @@
   font-family: "Inter", sans-serif;
   min-width: 1100px;
   max-width: 1600px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .header {
@@ -11,4 +13,6 @@
 .content {
 }
 .footer {
+}
+.reservation {
 }

@@ -1,0 +1,23 @@
+.reservation {
+    background-color: #d9e7ff;
+  background-image: url(/web_project_coffeeshop/images/background_reservation.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0 120px;
+  }
+  .reservation__title {
+   margin-top: 0;
+   margin-right: auto;
+   margin-left: auto;
+   margin-bottom: 80px;
+   font-family: inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+
+  }
